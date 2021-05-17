@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="tomcat.svg">
+<img src="./tomcat.svg">
 
 <!--
 **Jsostmann/Jsostmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
