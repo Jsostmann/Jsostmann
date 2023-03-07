@@ -29,10 +29,10 @@
 <br>
 <br>
 
-
-
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jsostmann&show_icons=true&locale=en&theme=dark">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jsostmann&show_icons=true&locale=en&theme=radical">
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
 </div>
 
 
